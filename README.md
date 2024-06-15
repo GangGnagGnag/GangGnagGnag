@@ -20,9 +20,9 @@
 
 <p>
   <a href="https://github.com/GangGnagGnag">
-    <img src="https://github-readme-stats.vercel.app/api?username=GangGnagGnag&theme=dracula&show_icons=true"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=GangGnagGnag&theme=dracula&show_icons=true"/>
   </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GangGnagGnag&theme=dracula&layout=compact"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GangGnagGnag&theme=dracula&layout=compact"/>
 </p>
 
 <br>
