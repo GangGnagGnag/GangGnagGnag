@@ -1,6 +1,6 @@
 <div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚛💨&fontAlign=70" alt="Header Image">
-</div>
+</div><br>
 
 ## 📞 Contact 📞
 
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 
-<br>
+<br><br>
 
 ## ✔GitHub Stat and Languages✔
 
