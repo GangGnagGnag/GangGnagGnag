@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 
-<br><br>
+<br>
 
 ## ✔GitHub Stat and Languages✔
 
