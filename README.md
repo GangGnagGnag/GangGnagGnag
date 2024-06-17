@@ -18,11 +18,11 @@
 
 ## ✔GitHub Stat and Languages✔
 
-<p aline="center">
+<p align='center'>
   <a href="https://github.com/GangGnagGnag">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=GangGnagGnag&theme=dracula&show_icons=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=GangGnagGnag&theme=dracula&show_icons=true"/>
   </a>
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GangGnagGnag&theme=dracula&layout=compact"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GangGnagGnag&theme=dracula&layout=compact"/>
 </p>
 
 <br>
