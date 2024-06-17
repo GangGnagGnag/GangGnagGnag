@@ -64,16 +64,6 @@
 <br>
 
 
-## ⚙Technique Table⚙
-
-| 기술분류 | 보유기술 | 명세 |
-|:---:|:---:|:---:|
-|Visual Studio Code|python 개발, Spring Boot 개발||
-|Oracle 21C| Database 기본학습||
-
-<br>
-
-
 ## 📕Portfolio📕
 
 - Python
