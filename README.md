@@ -18,7 +18,7 @@
 
 ## ✔GitHub Stat and Languages✔
 
-<p>
+<p aline="center">
   <a href="https://github.com/GangGnagGnag">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=GangGnagGnag&theme=dracula&show_icons=true"/>
   </a>
