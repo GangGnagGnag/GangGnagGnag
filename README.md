@@ -1,6 +1,5 @@
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚛💨&fontAlign=70" alt="Header Image">
-</div><br>
+
+  ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=🎈Welcome%20to%20GyeongHo%20GitHub🎈%20&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180) 
 
 ## 📞 Contact 📞
 
@@ -18,7 +17,7 @@
 
 ## ✔GitHub Stat and Languages✔
 
-<p align='center'>
+<p>
   <a href="https://github.com/GangGnagGnag">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=GangGnagGnag&theme=dracula&show_icons=true"/>
   </a>
@@ -66,9 +65,13 @@
 
 ## 📕Portfolio📕
 
-- Python
+  - [파이썬 학습](https://github.com/GangGnagGnag/basic-Java-BigData-2024)
   - [빅데이터분석](https://github.com/GangGnagGnag/basic-bigdata-analysis-2024)
+  - [자바 학습](https://github.com/GangGnagGnag/basic-java-2024)
+  - [SpringBoot(학습중)](https://github.com/GangGnagGnag/basic-springboot-2024)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+
 
 
