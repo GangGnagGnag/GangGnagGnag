@@ -27,38 +27,42 @@
 <br>
 
 ## 🔨 Using Languages 🔨
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Backend -->
-    <p><strong>Backend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-    </div>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    </div>
-    <!-- Server -->
-    <p><strong>Server</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-    </div>
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-    </div>
-    <!-- Frontend -->
-    <p><strong>Tools</strong></p>
-    <div>
-        <img height="40" src="https://github.com/iieunji023/iieunji023/assets/134913155/8a53bc53-826b-4103-93a6-4ca635171631" title="Visual Studio Code"> 
-        <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
-    </div>
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flt&logo=Conda-Forge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Thymeleaf-007396?style=flat&logo=Thymeleaf&logoColor=white">
+</p>
+
+### Database
+
+<p>
+ <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flate&logo=mysql&logoColor=white">
+</p>
+
+### Using Tools
+
+  <div>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+<br>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
+</div>
+
+<br>
 
 
 ## 📕Portfolio📕
