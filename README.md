@@ -27,40 +27,38 @@
 <br>
 
 ## 🔨 Using Languages 🔨
-
-### Backend
-
-<p>
-  <img height="60" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" title="Java">
-  <img height="60" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" title="python">
-  <img height="60" src="https://img.icons8.com/?size=100&id=A3Ulk2RcONKs&format=png&color=000000" title="python">
-</p>
-
-### Frontend
-
-<p>
-  <img height="60" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" title="HTML">
-  <img height="60" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" title="CSS">
-  <img height="60" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" title="JS">
-  <img height="50" src="https://www.thymeleaf.org/images/thymeleaf.png" title="thymeleaf">
-</p>
-
-### Database
-
-<p>
-  <img height="60" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" title="MySql">
-  <img height="60" src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" title="Oracle">
-</p>
-
-### Using Tools
-
-<p>
-  <img height="40" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" title="IntelliJ">
-  <img height="40" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" title="visualstudiocode">
-  <img height="40" src="https://img.icons8.com/?size=100&id=kjaF4LlvyR6g&format=png&color=000000" title="dbeaver">
-</p>
-
-<br>
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- Backend -->
+    <p><strong>Backend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
+    </div>
+    <!-- Database -->
+    <p><strong>Database</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+    </div>
+    <!-- Server -->
+    <p><strong>Server</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+    </div>
+    <!-- Frontend -->
+    <p><strong>Frontend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+    </div>
+    <!-- Frontend -->
+    <p><strong>Tools</strong></p>
+    <div>
+        <img height="40" src="https://github.com/iieunji023/iieunji023/assets/134913155/8a53bc53-826b-4103-93a6-4ca635171631" title="Visual Studio Code"> 
+        <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
+    </div>
 
 
 ## 📕Portfolio📕
