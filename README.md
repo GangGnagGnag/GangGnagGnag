@@ -71,7 +71,7 @@
   - [빅데이터분석](https://github.com/GangGnagGnag/basic-bigdata-analysis-2024)
   - [자바 학습](https://github.com/GangGnagGnag/basic-java-2024)
   - [HTML 학습](https://github.com/GangGnagGnag/basic-HTML)
-  - [SpringBoot(학습중)](https://github.com/GangGnagGnag/basic-springboot-2024)
+  - [SpringBoot 학습](https://github.com/GangGnagGnag/basic-springboot-2024)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
